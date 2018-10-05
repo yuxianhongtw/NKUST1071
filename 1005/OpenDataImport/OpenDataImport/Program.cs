@@ -19,21 +19,19 @@ namespace OpenDataImport
         {
             List<OpenData> result = new List<OpenData>();
 
-            var xml = XElement.Load(@"C:\Users\Owner\Downloads\D54BA676-ED9A-4077-9A10-A0971B3B020C.xml");
+            var xml = XElement.Load(@"C:\Users\Owner\Downloads\datagovtw_dataset_20181005.xml");
 
-            //XNamespace gml = @" ";
-            //XNamespace twed = @"";
-            var nodes = xml.Descendants("ReservoirsInformation").ToList();
+            var nodes = xml.Descendants("node").ToList();
 
             for (var i = 0; i < nodes.Count; i++)
             {
                 var node = nodes[i];
                 OpenData item = new OpenData();
 
-                item.Area = getValue(node, "Area");
-                item.BasinName = getValue(node, "BasinName");
-                item.Location = getValue(node, "Location");
-                item.ReservoirName = getValue(node, "ReservoirName");
+                item.id = int.Parse(getValue(node, "id"));
+                item.資料集名稱 = getValue(node, "資料集名稱");
+                item.主要欄位說明 = getValue(node, "主要欄位說明");
+                item.服務分類 = getValue(node, "服務分類");
                 result.Add(item);
             }
             return result;
@@ -46,13 +44,13 @@ namespace OpenDataImport
 
         public static void ShowOpenData(List<OpenData> nodes)
         {
-            Console.WriteLine(string.Format("共收到{0}筆的資料", nodes.Count));
-            nodes.GroupBy(node => node.Area).ToList()
+            //Console.WriteLine(string.Format("共收到{0}筆的資料", nodes.Count));
+            nodes.GroupBy(node => node.服務分類).ToList()
                 .ForEach(group =>
                 {
                     var key = group.Key;
                     var groupDatas = group.ToList();
-                    var message = $"Area:{key},共有{groupDatas.Count()}筆資料";
+                    var message = $"服務分類:{key},共有{groupDatas.Count()}筆資料";
                     Console.WriteLine(message);
 
                 });

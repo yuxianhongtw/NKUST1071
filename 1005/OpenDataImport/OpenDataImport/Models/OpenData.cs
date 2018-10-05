@@ -15,11 +15,10 @@ namespace OpenDataImport.Models
                 this._id = value;
             }
         }*/
-
-        public string Area { get; set; }
-        public string BasinName { get; set; }
-        public string Location { get; set; }
-        public string ReservoirName { get; set; }
+        public int id { get; set; }
+        public string 資料集名稱 { get; set; }
+        public string 主要欄位說明 { get; set; }
+        public string 服務分類 { get; set; }
 
 
         /* public string Get資料集名稱() {

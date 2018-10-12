@@ -35,23 +35,23 @@ namespace OpenDataImport
                 result.Add(item);
             }*/
 
-            /*Func<XElement, string, string> getValueFunc = (node, properuName) =>
-            {
-                return node.Element(properuName)?.Value?.Trim();
-            };
-            Action<List<OpenData>> showOpenDataAction = (x) =>
-            {
-                //Console.WriteLine(string.Format("共收到{0}筆的資料", nodes.Count));
-                x.GroupBy(node => node.服務分類).ToList()
-                    .ForEach(group =>
-                    {
-                        var key = group.Key;
-                        var groupDatas = group.ToList();
-                        var message = $"服務分類:{key},共有{groupDatas.Count()}筆資料";
-                        Console.WriteLine(message);
+            /* Func<XElement, string, string> getValueFunc = (node, properuName) =>
+             {
+                 return node.Element(properuName)?.Value?.Trim();
+             };
+             Action<List<OpenData>> showOpenDataAction = (x) =>
+             {
+                 //Console.WriteLine(string.Format("共收到{0}筆的資料", nodes.Count));
+                 x.GroupBy(node => node.服務分類).ToList()
+                     .ForEach(group =>
+                     {
+                         var key = group.Key;
+                         var groupDatas = group.ToList();
+                         var message = $"服務分類:{key},共有{groupDatas.Count()}筆資料";
+                         Console.WriteLine(message);
 
-                    });
-            };*/
+                     });
+             };*/
 
             /*nodes.ToList()
                 .ForEach(node =>

@@ -6,7 +6,7 @@ using System.Text;
 
 namespace OpenDataImport.Repository
 {
-    class OpenDataReository
+    class OpenDataRepository
     {
         public string ConnectionString
         {
@@ -28,7 +28,7 @@ namespace OpenDataImport.Repository
             From OpenData");
             if (!string.IsNullOrEmpty(name))
                 command.CommandText =
-                    $"{command.CommandText} Where 服務分類 = N'{name}'";
+                    $"{command.CommandText} Where 資料集名稱 like N'{name}%'";
             //command.CommandText + "Where 服務分類 = N'" + name + "'";
             //command.Parameters.Add(new SqlParameter("p1", name));
             var reader = command.ExecuteReader();

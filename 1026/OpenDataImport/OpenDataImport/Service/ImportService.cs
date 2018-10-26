@@ -10,11 +10,11 @@ namespace OpenDataImport.Service
 {
     class ImportService
     {
-        public Repository.OpenDataReository _repository;
+        public Repository.OpenDataRepository _repository;
 
         public ImportService()
         {
-            _repository = new Repository.OpenDataReository();
+            _repository = new Repository.OpenDataRepository();
         }
 
         public List<OpenData> FindOpenDataFromXml()

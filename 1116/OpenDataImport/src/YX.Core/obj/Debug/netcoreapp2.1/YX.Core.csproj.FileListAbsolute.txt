@@ -1,0 +1,9 @@
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\bin\Debug\netcoreapp2.1\YX.Core.deps.json
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\bin\Debug\netcoreapp2.1\YX.Core.dll
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\obj\Debug\netcoreapp2.1\YX.Core.csprojAssemblyReference.cache
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\obj\Debug\netcoreapp2.1\YX.Core.csproj.CoreCompileInputs.cache
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\obj\Debug\netcoreapp2.1\YX.Core.AssemblyInfoInputs.cache
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\obj\Debug\netcoreapp2.1\YX.Core.AssemblyInfo.cs
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\bin\Debug\netcoreapp2.1\YX.Core.pdb
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\obj\Debug\netcoreapp2.1\YX.Core.dll
+D:\[高科大]軟體工程\github\1116\OpenDataImport\src\YX.Core\obj\Debug\netcoreapp2.1\YX.Core.pdb

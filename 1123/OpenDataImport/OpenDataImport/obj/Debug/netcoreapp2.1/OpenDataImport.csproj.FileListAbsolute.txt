@@ -1,0 +1,16 @@
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\YX.Application.dll
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\YX.Core.dll
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.csprojAssemblyReference.cache
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.csproj.CoreCompileInputs.cache
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.AssemblyInfoInputs.cache
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.AssemblyInfo.cs
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.deps.json
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.runtimeconfig.json
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.runtimeconfig.dev.json
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.dll
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.pdb
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\YX.Application.pdb
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\YX.Core.pdb
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.csproj.CopyComplete
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.dll
+D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.pdb

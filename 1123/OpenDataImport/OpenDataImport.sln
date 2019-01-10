@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YX.Core", "src\YX.Core\YX.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YX.Application", "src\YX.Application\YX.Application.csproj", "{9AC8A7C3-372F-4B69-B4DD-C8351FD474F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YX.Web", "YX.Web\YX.Web.csproj", "{513A994B-B75D-4162-9190-8E6947E98267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YX.Web", "YX.Web\YX.Web.csproj", "{513A994B-B75D-4162-9190-8E6947E98267}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

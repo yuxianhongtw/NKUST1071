@@ -3413,11 +3413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj",
+      "projectUniqueName": "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj",
       "projectName": "YX.Core",
-      "projectPath": "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj",
+      "projectPath": "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Core\\obj\\",
+      "outputPath": "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

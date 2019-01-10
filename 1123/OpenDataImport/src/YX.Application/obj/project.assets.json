@@ -3434,11 +3434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Application\\YX.Application.csproj",
+      "projectUniqueName": "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Application\\YX.Application.csproj",
       "projectName": "YX.Application",
-      "projectPath": "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Application\\YX.Application.csproj",
+      "projectPath": "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Application\\YX.Application.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Application\\obj\\",
+      "outputPath": "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3457,8 +3457,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj": {
-              "projectPath": "D:\\[高科大]軟體工程\\github\\1116\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj"
+            "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj": {
+              "projectPath": "D:\\[高科大]軟體工程\\github\\1123\\OpenDataImport\\src\\YX.Core\\YX.Core.csproj"
             }
           }
         }

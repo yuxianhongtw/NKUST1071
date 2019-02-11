@@ -14,7 +14,7 @@ namespace YX.Core.Database
             get
             {
                 // path = Path.Combine(Directory.GetCurrentDirectory(), @"D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\App_Data\Database.mdf");
-                return @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\[高科大]軟體工程\github\1116\OpenDataImport\OpenDataImport\App_Data\Database.mdf;Integrated Security=True";
+                return @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\[高科大]軟體工程\github\2019_0104\OpenDataImport\OpenDataImport\App_Data\Database.mdf;Integrated Security=True";
             }
         }
 
